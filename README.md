@@ -9,13 +9,19 @@ O projeto foi criado como atividade prática integrando conceitos de desenvolvim
 ---
 
 ## 🚀 Tecnologias Utilizadas
-
+front-and:
 - JavaScript  
 - HTML  
 - CSS  
 - Git  
 - GitHub  
 
+Back-and:
+- Java
+- Spring Boot
+- Docker
+- Banco de dados H2, MYSQL
+- AWS 
 ---
 
 ## 🏗 Arquitetura do Projeto
@@ -27,6 +33,10 @@ Estrutura baseada em:
 - Camada de Interface (Frontend)
 - Camada de Lógica de Aplicação
 - Organização modular de arquivos
+- Infraestrutura(Backend)
+- Injeção de dependencia
+- Maven
+- MVC  
 
 ---
 
