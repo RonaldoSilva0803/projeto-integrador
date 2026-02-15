@@ -10,7 +10,8 @@ O projeto foi criado como atividade prática integrando conceitos de desenvolvim
 
 ## 🚀 Tecnologias Utilizadas
 front-and:
-- JavaScript  
+- JavaScript
+- ReactJs  
 - HTML  
 - CSS  
 - Git  
